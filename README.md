@@ -1,2 +1,2 @@
 # TDS
-GA 8
+Built a streamlit application and hosted it on streamlit cloud
